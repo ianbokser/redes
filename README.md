@@ -13,7 +13,7 @@ The main goal of this project was to understand data flow between devices, confi
 1. **Download Cisco Packet Tracer V8.2.2:** If you haven’t already, download and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) from Cisco’s official website.
 2. **Clone the Repository:** Use the following command to clone this repository to your local machine:
    ```bash
-   git clone <repository-URL>
+   git clone https://github.com/ianbokser/redes
    ```
 3. **Open the File:** Launch Cisco Packet Tracer and open the `.pkt` file included in this repository to load the network topology and configurations.
 4. **Run the Simulation:** Once the file is open, use Cisco Packet Tracer's simulation tools to test and observe the behavior of the configured network.
