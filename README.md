@@ -1,8 +1,8 @@
-# Practical Assignment - Computer Networks
+# Practical Assignment - Operating Systems and Networks
 
 ## Introduction
 
-This repository contains a practical assignment completed as part of a university course in Computer Networks. In this project, we configured network topologies and settings using Cisco Packet Tracer to understand and apply essential networking concepts. The included configuration file allows for the replication of the network environment we created as part of the coursework.
+This repository contains a practical assignment completed as part of a university course in Operating Systems and Networks. In this project, we configured network topologies and settings using Cisco Packet Tracer to understand and apply essential networking concepts. The included configuration file allows for the replication of the network environment we created as part of the coursework.
 
 ## Assignment Description
 
